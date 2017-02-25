@@ -19,19 +19,19 @@
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.2",
-    "ember-cli-htmlbars": "0.7.4",
-    "ember-cli-uglify": "1.0.1"
+    "ember-cli-htmlbars": "1.1.1",
+    "ember-cli-uglify": "1.2.0"
   },
   "keywords": [
     "ember-addon"
   ],
   "dependencies": {
-    "ember-cli": "ef4/ember-cli#refactor",
-    "ember-cli-babel": "^4.0.0",
+    "ember-cli": "saerdnaer/ember-cli#master",
+    "ember-cli-babel": "^5.2.4",
     "broccoli-derequire": "^0.1.0",
-    "broccoli-merge-trees": "^0.2.1",
-    "broccoli-sourcemap-concat": "^0.4.3",
-    "broccoli-stew": "^0.2.1",
+    "broccoli-merge-trees": "^1.2.1",
+    "broccoli-sourcemap-concat": "^1.1.6",
+    "broccoli-stew": "^1.4.0",
     "chalk": "^1.0.0",
     "quick-temp": "^0.1.2"
   },
